@@ -1,0 +1,12 @@
+/Users/maya/Development/House-Renting-System-App/HouseRentingSystem.Services/bin/Debug/net6.0/HouseRentingSystem.Services.deps.json
+/Users/maya/Development/House-Renting-System-App/HouseRentingSystem.Services/bin/Debug/net6.0/HouseRentingSystem.Services.runtimeconfig.json
+/Users/maya/Development/House-Renting-System-App/HouseRentingSystem.Services/bin/Debug/net6.0/HouseRentingSystem.Services.dll
+/Users/maya/Development/House-Renting-System-App/HouseRentingSystem.Services/bin/Debug/net6.0/HouseRentingSystem.Services.pdb
+/Users/maya/Development/House-Renting-System-App/HouseRentingSystem.Services/obj/Debug/net6.0/HouseRentingSystem.Services.csproj.AssemblyReference.cache
+/Users/maya/Development/House-Renting-System-App/HouseRentingSystem.Services/obj/Debug/net6.0/HouseRentingSystem.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maya/Development/House-Renting-System-App/HouseRentingSystem.Services/obj/Debug/net6.0/HouseRentingSystem.Services.AssemblyInfoInputs.cache
+/Users/maya/Development/House-Renting-System-App/HouseRentingSystem.Services/obj/Debug/net6.0/HouseRentingSystem.Services.AssemblyInfo.cs
+/Users/maya/Development/House-Renting-System-App/HouseRentingSystem.Services/obj/Debug/net6.0/HouseRentingSystem.Services.csproj.CoreCompileInputs.cache
+/Users/maya/Development/House-Renting-System-App/HouseRentingSystem.Services/obj/Debug/net6.0/HouseRentingSystem.Services.dll
+/Users/maya/Development/House-Renting-System-App/HouseRentingSystem.Services/obj/Debug/net6.0/HouseRentingSystem.Services.pdb
+/Users/maya/Development/House-Renting-System-App/HouseRentingSystem.Services/obj/Debug/net6.0/HouseRentingSystem.Services.genruntimeconfig.cache
